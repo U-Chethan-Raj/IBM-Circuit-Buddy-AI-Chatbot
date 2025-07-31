@@ -2,11 +2,11 @@
 
 # Chatbot - Audio Signal Processing Assistant Agent
 
-[![Audio Signal Processing](https://img.shields.io/badge/Tag-Audio%20Signal%20Processing-blue)](https://github.com/topics/audio-signal-processing)
-[![AI Chatbot](https://img.shields.io/badge/Tag-AI%20Chatbot-lightgrey)](https://github.com/topics/chatbot)
-[![IBM Granite](https://img.shields.io/badge/Tag-IBM%20Granite-green)](https://github.com/topics/ibm-granite)
-[![IBM Cloud Lite](https://img.shields.io/badge/Tag-IBM%20Cloud%20Lite-blueviolet)](https://github.com/topics/ibm-cloud)
-[![Electronics Engineering](https://img.shields.io/badge/Tag-Electronics%20Engineering-orange)](https://github.com/topics/electronics-engineering)
+[![Audio Signal Processing](https://img.shields.io/badge/Audio%20Signal%20Processing-blue)](https://github.com/topics/audio-signal-processing)
+[![AI Chatbot](https://img.shields.io/badge/AI%20Chatbot-lightgrey)](https://github.com/topics/chatbot)
+[![IBM Granite](https://img.shields.io/badge/IBM%20Granite-green)](https://github.com/topics/ibm-granite)
+[![IBM Cloud Lite](https://img.shields.io/badge/IBM%20Cloud%20Lite-blueviolet)](https://github.com/topics/ibm-cloud)
+[![Electronics Engineering](https://img.shields.io/badge/Electronics%20Engineering-orange)](https://github.com/topics/electronics-engineering)
 
 
 ---
