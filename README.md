@@ -2,7 +2,12 @@
 
 # Chatbot - Audio Signal Processing Assistant Agent
 
-**Tags:** #AudioSignalProcessing #AIChatbot #IBMGranite #IBMCloudLite #ElectronicsEngineering #TransformerModel #RetrievalAugmentedGeneration #RAG #Langchain #Watsonx #SignalProcessing #CircuitDesign #Troubleshooting #MachineLearning
+[![Audio Signal Processing](https://img.shields.io/badge/Tag-Audio%20Signal%20Processing-blue)](https://github.com/topics/audio-signal-processing)
+[![AI Chatbot](https://img.shields.io/badge/Tag-AI%20Chatbot-lightgrey)](https://github.com/topics/chatbot)
+[![IBM Granite](https://img.shields.io/badge/Tag-IBM%20Granite-green)](https://github.com/topics/ibm-granite)
+[![IBM Cloud Lite](https://img.shields.io/badge/Tag-IBM%20Cloud%20Lite-blueviolet)](https://github.com/topics/ibm-cloud)
+[![Electronics Engineering](https://img.shields.io/badge/Tag-Electronics%20Engineering-orange)](https://github.com/topics/electronics-engineering)
+
 
 ---
 
@@ -107,4 +112,3 @@ Contributions, feedback, or new Q&A/document additions are welcome! Please submi
 _MIT License (or specify your chosen license)_  
 **Copyright (c) 2025 [U Chethan Raj/Team]**
 
-**_For questions, demo, or collaboration, contact: [your-email@example.com]_**
